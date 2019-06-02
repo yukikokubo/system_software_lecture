@@ -1,0 +1,4 @@
+language: bash
+script:
+  - echo "travis test"
+  - ./kadai3-test.sh
